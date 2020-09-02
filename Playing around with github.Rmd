@@ -13,7 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 #This is a comment
-5^2*2
+5^2*2 
+#50
 
 ```
 
