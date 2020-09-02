@@ -14,6 +14,11 @@ Testing github
 
 ```{r}
 #just writing some code here
+a <- c(1,2,3,4,5)
+b <- c(9,3,5,2,6)
+
+c <- a*b
+c
 ```
 
 
